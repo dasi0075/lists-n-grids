@@ -36,9 +36,8 @@ h2 {
   font-family: "Denk One";
 }
 
-li {
+a {
   color: #623b0c;
-  list-style-type: none;
 }
 
 .card {
